@@ -25,20 +25,11 @@ Este proyecto es un sitio web interactivo creado con HTML, CSS y JavaScript. Per
 - Japón
 - Italia
 - Brasil
-
-## Publicación en GitHub Pages
-
-1. Subir todos los archivos al repositorio de GitHub.
-2. Entrar a Settings.
-3. Ir a Pages.
-4. En Branch seleccionar `main` y carpeta `/root`.
-5. Guardar.
-6. Copiar el enlace público generado por GitHub Pages.
-
+  
 ## Enlaces para entregar
 
 Repositorio:
 https://github.com/TU-USUARIO/travel-recommendation
 
 Sitio web:
-https://TU-USUARIO.github.io/travel-recommendation/
+https://clizco.github.io/travel-recommendation/
