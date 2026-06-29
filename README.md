@@ -29,7 +29,7 @@ Este proyecto es un sitio web interactivo creado con HTML, CSS y JavaScript. Per
 ## Enlaces para entregar
 
 Repositorio:
-https://github.com/TU-USUARIO/travel-recommendation
+[https://github.com/TU-USUARIO/travel-recommendation](https://github.com/Clizco/travel-recomendacion/)
 
 Sitio web:
-https://clizco.github.io/travel-recommendation/
+[https://clizco.github.io/travel-recommendation/](https://clizco.github.io/travel-recomendacion/)
