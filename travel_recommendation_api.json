@@ -1,0 +1,73 @@
+{
+  "beaches": [
+    {
+      "name": "Bora Bora, Polinesia Francesa",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "description": "Un destino paradisíaco con aguas cristalinas, arena blanca y paisajes perfectos para relajarse. Ideal para viajeros que buscan descanso, lujo y naturaleza tropical."
+    },
+    {
+      "name": "Maldivas",
+      "imageUrl": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd?auto=format&fit=crop&w=1200&q=80",
+      "description": "Las Maldivas ofrecen playas tranquilas, villas sobre el agua y excelentes zonas para bucear. Es una opción perfecta para parejas, vacaciones familiares o viajes de desconexión."
+    }
+  ],
+  "temples": [
+    {
+      "name": "Kinkaku-ji, Japón",
+      "imageUrl": "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?auto=format&fit=crop&w=1200&q=80",
+      "description": "También conocido como el Pabellón Dorado, este templo de Kioto destaca por su arquitectura tradicional, jardines serenos y gran valor cultural."
+    },
+    {
+      "name": "Angkor Wat, Camboya",
+      "imageUrl": "https://images.unsplash.com/photo-1558005530-a7958896ec60?auto=format&fit=crop&w=1200&q=80",
+      "description": "Angkor Wat es uno de los complejos religiosos más impresionantes del mundo. Sus templos, esculturas y amaneceres lo convierten en una experiencia inolvidable."
+    }
+  ],
+  "countries": [
+    {
+      "name": "Japón",
+      "cities": [
+        {
+          "name": "Tokio, Japón",
+          "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1200&q=80",
+          "description": "Tokio combina tecnología, cultura pop, templos, gastronomía y barrios modernos. Es ideal para quienes desean una ciudad vibrante y llena de actividades."
+        },
+        {
+          "name": "Kioto, Japón",
+          "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=80",
+          "description": "Kioto es reconocida por sus templos, jardines, calles históricas y tradiciones japonesas. Es perfecta para viajeros interesados en cultura e historia."
+        }
+      ]
+    },
+    {
+      "name": "Italia",
+      "cities": [
+        {
+          "name": "Roma, Italia",
+          "imageUrl": "https://images.unsplash.com/photo-1529260830199-42c24126f198?auto=format&fit=crop&w=1200&q=80",
+          "description": "Roma ofrece historia, arquitectura antigua, plazas famosas y una gastronomía reconocida mundialmente. Es ideal para amantes de la cultura y el arte."
+        },
+        {
+          "name": "Venecia, Italia",
+          "imageUrl": "https://images.unsplash.com/photo-1514890547357-a9ee288728e0?auto=format&fit=crop&w=1200&q=80",
+          "description": "Venecia es famosa por sus canales, góndolas y ambiente romántico. Es un destino único para caminar, fotografiar y disfrutar de una ciudad diferente."
+        }
+      ]
+    },
+    {
+      "name": "Brasil",
+      "cities": [
+        {
+          "name": "Río de Janeiro, Brasil",
+          "imageUrl": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=1200&q=80",
+          "description": "Río de Janeiro destaca por sus playas, montañas, música y energía cultural. Es ideal para quienes buscan naturaleza, ciudad y diversión."
+        },
+        {
+          "name": "São Paulo, Brasil",
+          "imageUrl": "https://images.unsplash.com/photo-1543059080-f9b1272213d5?auto=format&fit=crop&w=1200&q=80",
+          "description": "São Paulo es una ciudad moderna con restaurantes, museos, vida nocturna y diversidad cultural. Perfecta para viajeros urbanos."
+        }
+      ]
+    }
+  ]
+}

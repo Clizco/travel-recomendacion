@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TravelBloom | Recomendaciones de Viajes</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <a href="index.html" class="logo">TravelBloom</a>
+
+      <ul class="nav-links">
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="about.html">Quiénes somos</a></li>
+        <li><a href="contact.html">Contacto</a></li>
+      </ul>
+
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Buscar: playa, templo, Japón" />
+        <button id="searchBtn">Buscar</button>
+        <button id="clearBtn" class="secondary-btn">Limpiar</button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-content">
+        <h1>Descubre tu próximo destino ideal</h1>
+        <p>
+          Explora playas, templos y países increíbles según tus preferencias.
+          TravelBloom te ayuda a planificar viajes memorables con recomendaciones visuales,
+          descripciones claras y una experiencia sencilla.
+        </p>
+        <a href="#results" class="hero-btn">Ver recomendaciones</a>
+      </div>
+    </section>
+
+    <section class="intro-section">
+      <h2>¿Qué puedes buscar?</h2>
+      <div class="features">
+        <article>
+          <h3>Playas</h3>
+          <p>Encuentra destinos tropicales ideales para descansar y disfrutar del mar.</p>
+        </article>
+        <article>
+          <h3>Templos</h3>
+          <p>Descubre lugares históricos llenos de cultura, arquitectura y tradición.</p>
+        </article>
+        <article>
+          <h3>Países</h3>
+          <p>Busca recomendaciones por país y conoce ciudades destacadas para visitar.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="results-section" id="resultsSection">
+      <h2>Resultados de búsqueda</h2>
+      <p class="hint">Prueba escribiendo: <strong>playa</strong>, <strong>templo</strong>, <strong>Japón</strong>, <strong>Italia</strong> o <strong>Brasil</strong>.</p>
+      <div id="results" class="results"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 TravelBloom. Todos los derechos reservados.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
